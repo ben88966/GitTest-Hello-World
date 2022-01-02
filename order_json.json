@@ -1,0 +1,12 @@
+{'customer_name': 'Andrea Coates', 
+'customer_time': '27/Dec/2021:10:39:17', 
+'customer_ip': '70.154.252.123', 
+'order_id': '70924', 
+'order_currency': 'GBP', 
+'order_address': '4365 Kenneth Green Apt. 712, East Ashleystad, AR 03333', 
+'order_items': [{'id': '05771', 'name': 'Spachtholz', 'price': 4011.04}, 
+                {'id': '49427', 'name': 'Brown', 'price': 3348.0}, 
+                {'id': '94793', 'name': 'Garrison', 'price': 2144.61}, 
+                {'id': '13361', 'name': 'Cartwright', 'price': 1767.62}], 
+'cost_shipping': 22.67, 
+'cost_tax': 32.62}
